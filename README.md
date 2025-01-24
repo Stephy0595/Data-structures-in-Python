@@ -1,6 +1,6 @@
 # Data-structures-in-Python
 
-##### Topic :List
+#####  List
 
 Q1.  Create a list of 5 random numbers and print the list. 
 
@@ -9,14 +9,14 @@ Q2.  Insert 3 new values to the list and print the updated list.
 Q3.  Try to use a for loop to print each element in the list. 
 
 
-#### Topic: Dictionary 
+####  Dictionary 
 
 Q1.  Create a dictionary with keys 'name', 'age', and 'address' and values 'John', 25, and 'New York' respectively.
 
 Q2.  Add a new key-value pair to the dictionary created in Q1 with key 'phone' and value '1234567890'. 
 
 
-#### Topic: Set 
+#### Set 
 
 Q1.Create a set with values 1, 2, 3, 4, and 5.
 
@@ -25,7 +25,7 @@ Q2. Add the value 6 to the set created in Q1.
 Q3. Remove the value 3 from the set created in Q1. 
 
 
-#### Topic:Tuple 
+#### Tuple 
 
 Q1. Create a tuple with values 1, 2, 3, and 4 
 
